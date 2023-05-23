@@ -1,4 +1,4 @@
-# Using Path
+# Path
 
 File paths represent files, and these paths come in relative or absolute formats. You can concatenate file paths, extract filename information, and even detect file existence.
 
